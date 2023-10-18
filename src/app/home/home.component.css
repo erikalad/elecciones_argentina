@@ -1,5 +1,3 @@
-@import '~bootstrap/dist/css/bootstrap.min.css';
-
 .contenedor-mapa-tabla{
     display: flex;
     gap:2rem;
