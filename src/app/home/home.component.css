@@ -9,4 +9,8 @@
     .contenedor-mapa-tabla{
         flex-direction: column-reverse;
        }
+
+       .contenedor-carrousel-tabla{
+        margin: 1rem;
+       }
 }
